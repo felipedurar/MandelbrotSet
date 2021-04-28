@@ -25,5 +25,8 @@ You need to have installed on your computer the Python 3.9 and some pip packages
 
 After installing all the pip packages you just need to execute 'python mandelbrot_set.py'. Currently the pallete is set on the code, so if you want to test other palletes or create your own palletes and import on it you just need to set it in the code. The pallete here is a 1-dimensional image to avoid having to make manually the interpolation for the colors.
 
-# ToDo
+# Todo
 - Color Interpolation
+- Multithreading
+- Low Res Rendering
+- Image Tracking when moving
